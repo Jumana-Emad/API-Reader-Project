@@ -7,4 +7,9 @@ What the excel Sheet is expected to look like:
 
 The main requirement of this project is that you save all objects (object1, object2, etc.) that belongs to one API.
 
+My Output :
+![image](https://user-images.githubusercontent.com/104005798/222607779-f7ff24d6-a262-4698-ba69-c87b5a0bb64d.png)
+
+Note: Excel file tested to give such outputb is included in the repo
+
 Project Discription for more Details:  https://drive.google.com/file/d/1eby1PkJqdSpsMQ1ULIQ3qn6KurjZVDAv/view?usp=sharing
